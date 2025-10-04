@@ -34,8 +34,8 @@ If you’re new, here are some easy ways to start:
 
 Example:
 ```
-git clone https://github.com/your-username/Bank-Database.git
-cd Bank-Database
+git clone https://github.com/your-username/LearnBankUI.git
+cd LearnBankUI
 git checkout -b my-feature
 # make changes now. then:
 git commit -m "Add feature X"
