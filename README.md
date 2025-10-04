@@ -1,4 +1,4 @@
-# Bank-Database
+# LearnBankUI
 
 The program serves as a user interface for managing a bank database. It allows users to interact with a linked list data structure, offering menu options to add new records, print all existing records, find records by account number, delete records by account number, and exit the program. The user interface is text-based and guides users through each operation, such as entering account numbers, names, and multi-line addresses when adding new records. The program handles input validation to ensure data integrity and provides appropriate feedback to users.
 
@@ -9,8 +9,8 @@ This project is useful for beginners who want to understand memory management, u
 Clone the repository:
 
 ```
-git clone https://github.com/loellelam/Bank-Database.git
-cd Bank-Database
+git clone https://github.com/loellelam/LearnBankUI.git
+cd LearnBankUI
 ```
 
 Build the project:
